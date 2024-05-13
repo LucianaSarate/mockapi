@@ -2,7 +2,7 @@
   "login": [
     {
       "usuario": "admin",
-      "password": "1234"  // Enclose password in quotes
+      "password": "1234"  
     }
   ],
   "usuarios": [
