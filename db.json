@@ -1,7 +1,14 @@
 {
-  "login": [
-    {"usuario":"admin","password":44665,"id":"1"}
-  ],
+  "login": 
+    {
+      "status": "success",
+      "usuario":"admin",
+      "password":44665,
+      "response":{
+      "tocken":"fake-jwt-token"
+      }
+    }
+  ,
   "usuarios": [
     {
       "nro": "18823-6148",
