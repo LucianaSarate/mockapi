@@ -1,13 +1,6 @@
 {
   "login": [
-    {
-      "success": true,
-      "token": "1234", 
-      "user": {
-                  "id": 1,
-                  "username": "loguin"
-              }
-    }
+    {"usuario":"Cambridgeshire","password":44665,"id":"1"}
   ],
   "usuarios": [
     {
