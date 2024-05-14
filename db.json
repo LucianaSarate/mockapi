@@ -1,9 +1,14 @@
 {
   "login": [
     {
-      "usuario": "admin",
-      "password": "1234"  
-    }
+  "success": true,
+  "token": "1234", 
+  "user": {
+    "id": 1,
+    "username": "admin"
+  }
+}
+
   ],
   "usuarios": [
     {
